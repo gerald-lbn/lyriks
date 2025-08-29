@@ -1,0 +1,14 @@
+.turbo
+.svelte-kit
+node_modules
+.dockerignore
+Dockerfile
+README.md
+.git
+.gitignore
+.vscode
+.idea
+.env*
+*.log
+.npmrc
+.prettier*
