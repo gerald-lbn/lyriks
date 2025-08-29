@@ -1,3 +1,0 @@
-{
-	"extends": ["@lyriks/typescript-config/svelte.json", "./.svelte-kit/tsconfig.json"]
-}
